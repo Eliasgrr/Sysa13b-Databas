@@ -1,6 +1,6 @@
 
 public class Student{
-	public String StudentID;
+	public String studentID;
 	public String name;
 	public String grade;
 	
